@@ -25,7 +25,7 @@
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-232F7E?style=flat-square&logo=microsoft-azure&logoColor=white)
