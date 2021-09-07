@@ -12,8 +12,13 @@
 
 Find out more about me & feel free to connect with me here:
 
+<p>
+  <a href="https://github.com/Jack-Kin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/zhejian-jin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zj2324@columbia.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
-<h3>⚡ Technologies</h3> 
+<h3>⚡ Technologies</h3>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -30,12 +35,7 @@ Find out more about me & feel free to connect with me here:
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=lightblue)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-JetBrains-blueviolet?style=flat&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/Jack-Kin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/zhejian-jin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:zj2324@columbia.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jack-Kin&count_private=true&show_icons=true&include_all_commits=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css&layout=compact)
