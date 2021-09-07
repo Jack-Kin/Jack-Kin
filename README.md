@@ -1,14 +1,16 @@
 <h1>Hi, I'm Zhejian Jin</h1>
 
-🏫A master student at Columbia University in the City of New York.
+<h3>I am...</h3>
 
-💻 An Arch Linux user.
+* 🎓 A master student at Columbia University in the City of New York.
 
-👾 A tech enthusiast & an open-source advocate.
+* 💻 An Arch Linux user.
 
-🏙️ From Shanghai, China.
+* 👾 A tech enthusiast & an open-source advocate.
 
-😆 Interested in software systems, distributed systems, cloud computing and high performance computing.
+* 🏙️ From Shanghai, China.
+
+* 😆 Interested in software systems, distributed systems, cloud computing and high performance computing.
 
 
 <h3>Where to find me</h3>
