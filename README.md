@@ -13,7 +13,7 @@
 Find out more about me & feel free to connect with me here:
 
 
-## ⚡ Technologies
+<h3>⚡ Technologies</h3> 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
