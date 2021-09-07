@@ -1,4 +1,4 @@
-<h2>Hi, I'm Zhejian Jin</h2>
+<h1>Hi, I'm Zhejian Jin</h1>
 
 🏫A master student at Columbia University in the City of New York. 
 
