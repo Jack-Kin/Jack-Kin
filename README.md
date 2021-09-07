@@ -25,6 +25,11 @@ Find out more about me & feel free to connect with me here:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+[![OS](https://img.shields.io/badge/OS-Manjaro-brightgreen?style=flat&logo=Manjaro&logoColor=#35BF5C)](https://manjaro.org/)
+[![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=Windows&logoColor=blue)](https://www.microsoft.com/en-us/windows)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=lightblue)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-JetBrains-blueviolet?style=flat&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jack-Kin&count_private=true&show_icons=true&include_all_commits=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css&layout=compact)
 
