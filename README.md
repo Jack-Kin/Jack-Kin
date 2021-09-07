@@ -38,10 +38,11 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=lightblue)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-JetBrains-blueviolet?style=flat&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 
-
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jack-Kin&count_private=true&show_icons=true&include_all_commits=true&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css&layout=compact" />
 </a>
+</p>
