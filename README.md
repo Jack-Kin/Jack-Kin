@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zhejian Jin</h1>
+<h1>Hi, Hi 👋, I'm Zhejian Jin</h1>
 
 <h3>I am...</h3>
 
