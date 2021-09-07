@@ -32,8 +32,9 @@ Find out more about me & feel free to connect with me here:
 
 <h3>Where to find me</h3>
 <p>
-<a href="https://github.com/Jack-Kin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/zhejian-jin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/Jack-Kin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/zhejian-jin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zj2324@columbia.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jack-Kin&count_private=true&show_icons=true&include_all_commits=true&hide=issues)
