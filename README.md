@@ -42,7 +42,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jack-Kin&count_private=true&show_icons=true&include_all_commits=true&hide=issues" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">
   <img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css&layout=compact" />
 </a>
 </p>
