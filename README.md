@@ -1,4 +1,4 @@
-## Hi, I'm Zhejian Jin<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h2>Hi, I'm Zhejian Jin</h2>
 
 🏫A master student at Columbia University in the City of New York. 
 
@@ -10,7 +10,7 @@
 
 👾 A tech enthusiast & an open-source advocate.
 
-Find out more about me & feel free to connect with me here:
+<h3>Where to find me</h3>
 
 <p>
   <a href="https://github.com/Jack-Kin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
