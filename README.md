@@ -12,6 +12,9 @@
 
 * 😆 Interested in software systems, distributed systems, cloud computing and high performance computing.
 
+<h3>What I'm learning</h3>
+
+Heterogeneous Programming
 
 <h3>Where to find me</h3>
 
