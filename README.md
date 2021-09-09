@@ -14,7 +14,8 @@
 
 <h3>What I'm learning</h3>
 
-Heterogeneous Programming
+* Heterogeneous Programming
+* Distributed Storage Systems
 
 <h3>Where to find me</h3>
 
