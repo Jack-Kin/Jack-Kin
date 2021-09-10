@@ -16,6 +16,7 @@
 
 * Heterogeneous Programming
 * Distributed Storage Systems
+* Network Virtualization and Cloud Computing
 
 <h3>Where to find me</h3>
 
