@@ -14,6 +14,7 @@
 
 <h3>What I'm learning</h3>
 
+* Operating Systems
 * Heterogeneous Programming
 * Distributed Storage Systems
 * Network Virtualization and Cloud Computing
