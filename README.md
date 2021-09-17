@@ -14,10 +14,10 @@
 
 <h3>What I'm learning</h3>
 
-* Operating Systems
 * Heterogeneous Programming
 * Distributed Storage Systems
 * Network Virtualization and Cloud Computing
+* Big Data Analysis
 
 <h3>Where to find me</h3>
 
