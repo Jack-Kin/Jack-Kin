@@ -16,7 +16,7 @@
 
 * Heterogeneous Programming
 * Distributed Storage Systems
-* P
+* Parallel Functional Programming
 * Big Data Analysis
 
 <h3>Where to find me</h3>
