@@ -16,7 +16,7 @@
 
 * Heterogeneous Programming
 * Distributed Storage Systems
-* Network Virtualization and Cloud Computing
+* P
 * Big Data Analysis
 
 <h3>Where to find me</h3>
