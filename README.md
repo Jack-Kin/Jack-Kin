@@ -14,10 +14,10 @@
 
 <h3>What I'm learning</h3>
 
-* Heterogeneous Programming
-* Distributed Storage Systems
-* Parallel Functional Programming
-* Big Data Analysis
+* COMS 6156 Cloud Computing
+* EECS 4750 Heterogeneous Programming
+* EECS 6897 Distributed Storage Systems
+* EECS 6893 Big Data Analysis
 
 <h3>Where to find me</h3>
 
