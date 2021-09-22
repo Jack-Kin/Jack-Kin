@@ -12,7 +12,7 @@
 
 * 😆 Interested in software systems, distributed systems, cloud computing and high performance computing.
 
-<h3>What I'm learning</h3>
+<h3>What I'm learning at Columbia</h3>
 
 * COMS 6156 Cloud Computing
 * EECS 4750 Heterogeneous Programming
