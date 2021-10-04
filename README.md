@@ -33,7 +33,6 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
 ![PyCUDA](https://img.shields.io/badge/-PyCUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
 ![PyOpenCL](https://img.shields.io/badge/-PyOpenCL-CC3333?style=flat-square&logo=Khronos-Group&logoColor=white)
 
