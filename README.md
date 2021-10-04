@@ -49,6 +49,8 @@
 [![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=Windows&logoColor=blue)](https://www.microsoft.com/en-us/windows)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=lightblue)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-JetBrains-blueviolet?style=flat&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
+[![Editor](https://img.shields.io/badge/Editor-VIM-019733?style=flat&logo=VIM&logoColor=white)](https://www.vim.org/)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css,HTML,JavaScript&layout=compact&hide_border=true&card_width=300)
