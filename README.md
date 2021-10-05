@@ -27,7 +27,7 @@
   <a href="mailto:zj2324@columbia.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-<h3>⚡ Technologies</h3>
+<h3>Technologies</h3>
 
 ![C](https://img.shields.io/badge/-C-239DFF?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
