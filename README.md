@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Zhejian Jin</h1>
 
-<h3>I am...</h3>
+<h3>I am</h3>
 
 * 🎓 A master student at Columbia University in the City of New York.
 
