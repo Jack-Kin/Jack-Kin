@@ -4,8 +4,6 @@
 
 * 🎓 A master student at Columbia University in the City of New York.
 
-* 💻 An Arch Linux user.
-
 * 👾 A tech enthusiast & an open-source advocate.
 
 * 🏙️ From Shanghai, China.
