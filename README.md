@@ -10,6 +10,9 @@
 
 * 😆 Interested in software systems, distributed systems & high frequency trading.
 
+<h3>Some Course Link</h3>
+
+* AI System: https://ucbrise.github.io/cs294-ai-sys-sp22/#
 
 <h3>Where to find me</h3>
 
