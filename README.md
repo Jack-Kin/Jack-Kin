@@ -16,6 +16,8 @@
 
 * MIT 6.824: https://pdos.csail.mit.edu/6.824/index.html
 
+* Crypto: https://www.coursera.org/learn/cryptocurrency/home/welcome
+
 <h3>Where to find me</h3>
 
 <p>
