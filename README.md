@@ -14,6 +14,8 @@
 
 * AI System: https://ucbrise.github.io/cs294-ai-sys-sp22/#
 
+* MIT 6.824: https://pdos.csail.mit.edu/6.824/index.html
+
 <h3>Where to find me</h3>
 
 <p>
