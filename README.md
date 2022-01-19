@@ -16,7 +16,10 @@
 
 * MIT 6.824: https://pdos.csail.mit.edu/6.824/index.html
 
+* COMS 4112 Database Implementation: http://www.cs.columbia.edu/~kar/4112s22/4112s22.html
+
 * Crypto: https://www.coursera.org/learn/cryptocurrency/home/welcome
+
 
 <h3>Where to find me</h3>
 
