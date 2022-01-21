@@ -15,8 +15,8 @@
 * AI System: https://ucbrise.github.io/cs294-ai-sys-sp22/#
 
 * Distributed Systems:
-* MIT 6.824: https://pdos.csail.mit.edu/6.824/index.html
-* COMS 4113: https://systems.cs.columbia.edu/ds1-class/
+  * MIT 6.824: https://pdos.csail.mit.edu/6.824/index.html
+  * COMS 4113: https://systems.cs.columbia.edu/ds1-class/
 
 * COMS 4112 Database Implementation: http://www.cs.columbia.edu/~kar/4112s22/4112s22.html
 
