@@ -16,6 +16,8 @@
   * MIT 6.824: https://pdos.csail.mit.edu/6.824/index.html
   * COMS 4113: https://systems.cs.columbia.edu/ds1-class/
 
+* CMU DB: https://15445.courses.cs.cmu.edu/fall2021/
+
 * COMS 4112 Database Implementation: http://www.cs.columbia.edu/~kar/4112s22/4112s22.html
 
 * Crypto: 
