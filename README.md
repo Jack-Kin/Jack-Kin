@@ -22,6 +22,8 @@
 
 * Crypto: https://www.coursera.org/learn/cryptocurrency/home/welcome
 
+* CSEE 4121 Computer Systems for Data Sciecne: https://csee-4121-2022.github.io/
+
 
 <h3>Where to find me</h3>
 
