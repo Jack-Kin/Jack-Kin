@@ -4,8 +4,6 @@
 
 * 🎓 A master student at Columbia University in the City of New York.
 
-* 👾 A tech enthusiast & an open-source advocate.
-
 * 🏙️ From Shanghai, China.
 
 * 😆 Interested in software systems, distributed systems & high frequency trading.
