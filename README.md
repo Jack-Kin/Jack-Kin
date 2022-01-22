@@ -18,8 +18,9 @@
 
 * COMS 4112 Database Implementation: http://www.cs.columbia.edu/~kar/4112s22/4112s22.html
 
-* Crypto: https://www.coursera.org/learn/cryptocurrency/home/welcome
-* https://cryptotrade.cylab.cmu.edu/about.php
+* Crypto: 
+  * https://www.coursera.org/learn/cryptocurrency/home/welcome
+  * https://cryptotrade.cylab.cmu.edu/about.php
 
 * CSEE 4121 Computer Systems for Data Sciecne: https://csee-4121-2022.github.io/
 
