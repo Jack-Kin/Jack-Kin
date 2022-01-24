@@ -60,5 +60,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css,HTML,JavaScript&layout=compact&hide_border=true&card_width=210)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css,HTML,JavaScript&layout=compact&hide_border=true&card_width=220)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jack-Kin&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&line_height=24)
