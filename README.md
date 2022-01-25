@@ -2,11 +2,11 @@
 
 <h3>I am</h3>
 
-* 🎓 A master student at Columbia University in the City of New York.
+* A master student at Columbia University in the City of New York.
 
-* 🏙️ From Shanghai, China.
+* From Shanghai, China.
 
-* 😆 Interested in software systems, distributed systems & high frequency trading.
+* Interested in software systems, distributed systems & high frequency trading.
 
 <h3>Some Course Link</h3>
 
