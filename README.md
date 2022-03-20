@@ -6,7 +6,7 @@
 
 * From Shanghai, China.
 
-* Interested in software systems, distributed systems & high frequency trading.
+* Interested in distributed systems & high frequency trading.
 
 <h3>Some Course Link</h3>
 
