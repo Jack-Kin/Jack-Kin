@@ -20,8 +20,6 @@
 
 * CMU DB: https://15445.courses.cs.cmu.edu/fall2021/
 
-* COMS 4112 Database Implementation: http://www.cs.columbia.edu/~kar/4112s22/4112s22.html
-
 * Crypto: 
   * https://www.coursera.org/learn/cryptocurrency/home/welcome
   * https://cryptotrade.cylab.cmu.edu/about.php
