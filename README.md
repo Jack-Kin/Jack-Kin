@@ -8,6 +8,10 @@
 
 * Interested in distributed systems & high frequency trading.
 
+<h3>My website</h3>
+
+https://jack-kin.github.io/
+
 <h3>Some Course Link</h3>
 
 * COMS 4118 Operating Systems I: http://www.cs.columbia.edu/~jae/4118/
@@ -18,13 +22,9 @@
   * MIT 6.824: https://pdos.csail.mit.edu/6.824/index.html
   * COMS 4113: https://systems.cs.columbia.edu/ds1-class/
 
-* CMU DB: https://15445.courses.cs.cmu.edu/fall2021/
+* CMU DB Systems: https://15445.courses.cs.cmu.edu/fall2021/
 
-* Crypto: 
-  * https://www.coursera.org/learn/cryptocurrency/home/welcome
-  * https://cryptotrade.cylab.cmu.edu/about.php
-
-* CSEE 4121 Computer Systems for Data Sciecne: https://csee-4121-2022.github.io/
+* Computer Systems for Data Sciecne: https://csee-4121-2022.github.io/
 
 
 <h3>Where to find me</h3>
