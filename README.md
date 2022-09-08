@@ -16,7 +16,9 @@ https://jack-kin.github.io/
 
 * COMS 4118 Operating Systems I: http://www.cs.columbia.edu/~jae/4118/
 
-* AI System: https://ucbrise.github.io/cs294-ai-sys-sp22/#
+* AI System: 
+ * https://ucbrise.github.io/cs294-ai-sys-sp22/#
+ * https://course.fast.ai/
 
 * Distributed Systems:
   * MIT 6.824: https://pdos.csail.mit.edu/6.824/index.html
