@@ -26,7 +26,7 @@ https://jack-kin.github.io/
 
 * CMU DB Systems: https://15445.courses.cs.cmu.edu/fall2021/
 
-* Computer Systems for Data Sciecne: https://csee-4121-2022.github.io/
+* Computer Systems for Data Sciecne: https://csee4121.github.io/spring2022/
 
 
 <h3>Where to find me</h3>
