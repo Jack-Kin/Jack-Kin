@@ -1,13 +1,5 @@
 <h1>Hi I'm Zhejian Jin</h1>
 
-<h3>I am</h3>
-
-* A master student at Columbia University in the City of New York.
-
-* From Shanghai, China.
-
-* Interested in distributed systems & high frequency trading.
-
 <h3>My website</h3>
 
 https://jack-kin.github.io/
