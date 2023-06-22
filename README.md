@@ -1,5 +1,3 @@
-<h1>Hi I'm Zhejian Jin</h1>
-
 <h3>Some Course Link</h3>
 
 * COMS 4118 Operating Systems I: http://www.cs.columbia.edu/~jae/4118/
@@ -29,17 +27,14 @@
 
 ![C](https://img.shields.io/badge/-C-239DFF?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/-GCP-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-232F7E?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 [![OS](https://img.shields.io/badge/OS-Manjaro-brightgreen?style=flat&logo=Manjaro&logoColor=#35BF5C)](https://manjaro.org/)
@@ -47,7 +42,6 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=lightblue)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-JetBrains-blueviolet?style=flat&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![Editor](https://img.shields.io/badge/Editor-VIM-019733?style=flat&logo=VIM&logoColor=white)](https://www.vim.org/)
-
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css,HTML,JavaScript&layout=compact&hide_border=true&card_width=220) -->
