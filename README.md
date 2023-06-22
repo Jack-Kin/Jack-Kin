@@ -1,9 +1,5 @@
 <h1>Hi I'm Zhejian Jin</h1>
 
-<h3>My website</h3>
-
-https://jack-kin.github.io/
-
 <h3>Some Course Link</h3>
 
 * COMS 4118 Operating Systems I: http://www.cs.columbia.edu/~jae/4118/
