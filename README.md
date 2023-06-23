@@ -49,4 +49,22 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 December 2022 - To: 23 June 2023
+
+Total Time: 62 hrs 12 mins
+
+C++              28 hrs 7 mins   ███████████▒░░░░░░░░░░░░░   45.20 %
+C                7 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+QML              7 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+ObjectiveC       5 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+QmlType          4 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+CMake            2 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+JSON             2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Markdown         1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Python           1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other            55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+```
+
 <!--END_SECTION:waka-->
