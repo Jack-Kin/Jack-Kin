@@ -1,3 +1,39 @@
+<h3>📊 This Week I Spent My Time On:</h3>
+<!--START_SECTION:waka-->
+
+```txt
+From: 24 May 2023 - To: 23 June 2023
+
+Total Time: 62 hrs 12 mins
+
+C++              28 hrs 7 mins   ███████████▒░░░░░░░░░░░░░   45.20 %
+C                7 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+QML              7 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+ObjectiveC       5 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+QmlType          4 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+CMake            2 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+JSON             2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Markdown         1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Python           1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other            55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+```
+
+<!--END_SECTION:waka-->
+
+
+
+
+<p align="center">
+  <a href="https://github.com/Jack-Kin" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jack-Kin&title_color=333&text_color=777" alt="Jack-Kin's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Jack-Kin&hide=issues&title_color=333&text_color=777" alt="Jack-Kin's Stats" >
+    -->
+  </a>
+</p>
+
+
+
 <h3>Some Course Link</h3>
 
 * COMS 4118 Operating Systems I: http://www.cs.columbia.edu/~jae/4118/
@@ -44,27 +80,6 @@
 [![Editor](https://img.shields.io/badge/Editor-VIM-019733?style=flat&logo=VIM&logoColor=white)](https://www.vim.org/)
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Kin&hide=TeX,css,HTML,JavaScript&layout=compact&hide_border=true&card_width=220) -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jack-Kin&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&line_height=24)
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
 
-```txt
-From: 24 May 2023 - To: 23 June 2023
 
-Total Time: 62 hrs 12 mins
-
-C++              28 hrs 7 mins   ███████████▒░░░░░░░░░░░░░   45.20 %
-C                7 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-QML              7 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-ObjectiveC       5 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-QmlType          4 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-CMake            2 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JSON             2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Markdown         1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Python           1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Other            55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-```
-
-<!--END_SECTION:waka-->
