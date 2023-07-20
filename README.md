@@ -1,4 +1,4 @@
-<h3>📊 Last 30 days coding stats:</h3>
+<h3>📊 Last 7 days coding stats:</h3>
 <!--START_SECTION:waka-->
 
 ```txt
