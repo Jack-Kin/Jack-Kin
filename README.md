@@ -26,6 +26,7 @@ JSON         0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 
 <h3>Some Course Link</h3>
+* https://www.agner.org/optimize/
 
 * COMS 4118 Operating Systems I: http://www.cs.columbia.edu/~jae/4118/
 
